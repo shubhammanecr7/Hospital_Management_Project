@@ -1,4 +1,4 @@
-## Title Information
+## Project Information
 -This is a simple Hospital Management Project created by using java SE.
 -Made for command line execution only.
 ## More Information
