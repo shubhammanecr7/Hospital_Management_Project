@@ -14,4 +14,4 @@
 2) Booking of Appointment with available doctors/patient
 3) See Available doctors information
 4) See all patients information
--If you found something is wrong, mail me at mshubham2025@gmail.com
+- If you found something is wrong, mail me at mshubham2025@gmail.com
